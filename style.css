@@ -234,3 +234,14 @@ span {
     margin-bottom: 55px;
 }
 
+
+ .fade-in-text p {
+    font-size: 60px;
+    
+  }
+  
+  @keyframes fadeIn {
+    0% { opacity: 0; }
+    100% { opacity: 1; }
+  }
+  
