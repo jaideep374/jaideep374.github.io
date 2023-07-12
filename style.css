@@ -236,7 +236,7 @@ span {
 
  .fade-in-text p {
     font-size: 60px;
-     text-shadow: 10px 10px 10px darkred;
+     text-shadow: 10px 10px 10px  rgb(221, 72, 179);
     
   }
 
