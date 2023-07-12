@@ -105,16 +105,13 @@ span {
 }
 
 .info2 img {
-    box-shadow: 0 0 2px #fff,
-    0 0 4px #fff,
-    0 0 6px #fff,
-    0 0 10px #0fa,
-    0 0 45px #0fa,
-    0 0 55px #0fa,
-    0 0 70px #0fa,
-    0 0 80px #0fa;
+    box-shadow:  0 0 .2rem #fff,
+    0 0 .2rem #fff,
+    0 0 2rem #04f2e6f9,
+    0 0 0.8rem #09707af9,
+    0 0 2.8rem #19c9a3f9,
+    inset 0 0 1.3rem #19c9a3f9;
 }
-
 .shape {
 
     height: 400px;
