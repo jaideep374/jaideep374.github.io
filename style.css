@@ -234,22 +234,29 @@ span {
     margin-bottom: 55px;
 }
 
+ .fade-in-text p {
+    font-size: 60px;
+     text-shadow: 10px 10px 10px darkred;
+    
+  }
+
+
 .fade-in-text {
     font-family: Arial;
     font-size: 400px;
-    animation: fadeIn 5s;
     text-align: center;
     margin-top: 30%;
-
-  }
-
- .fade-in-text p {
-    font-size: 60px;
+    animation: fadeIn 5s;
     
+
   }
-  
-  @keyframes fadeIn {
+
+ @keyframes fadeIn {
     0% { opacity: 0; }
     100% { opacity: 1; }
   }
+
+
+  
+ 
   
